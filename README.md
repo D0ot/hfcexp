@@ -31,6 +31,12 @@
 # when the scripts exits, you can see the result in pred_output and cache_output
 # for example you do the following steps to see some results
 
+# have a look at pred results
+./pred_results.sh
+
+# have a look at cache results
+./cache_results.sh
+
 # go into the cache_output directory
 cd ./cache_output
 
