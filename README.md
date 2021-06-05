@@ -1,6 +1,6 @@
 # H F C EXP = HFUT Fast CA Experiments
 
-> some scripts for hfut ca experiments, with mutli-process support making experiments N times faster!
+> some scripts for hfut ca experiments, with mutli-process support making experiments N times faste!
 
 ## Dependencies :
 
