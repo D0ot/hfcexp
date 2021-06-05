@@ -1,4 +1,4 @@
-# H F C EXP is  HFUT Fast CA E
+# H F C EXP = HFUT Fast CA Experiments
 
 > some scripts for hfut ca experiments, with mutli-process support making experiments N times faster!
 
